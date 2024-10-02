@@ -56,7 +56,7 @@ Jika tidak menggunakan **Anaconda**, Anda dapat menggunakan **Shell/Terminal** u
 Setelah environment siap, Anda dapat menjalankan aplikasi Streamlit menggunakan perintah berikut:
 
 ```bash
-streamlit run app.py
+streamlit run bike_sharing_dashboard.py
 ```
 
 Aplikasi Streamlit Anda akan berjalan pada local server, biasanya di alamat: **http://localhost:8501**. Anda dapat membuka dashboard melalui browser dan melihat hasil analisis serta visualisasi yang sudah dibuat.
